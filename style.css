@@ -69,6 +69,6 @@ p{
 /*------------svg-----------------*/
 .plot .team circle{
     stroke-width:2px;
-    stroke: rgb(50,50,50);
-    fill: rgba(200,200,200,.3)
+    stroke: white;
+    fill: rgba(255,255,0,.3)
 }
